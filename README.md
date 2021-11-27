@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mik3Tab.
+- 👋 Hi! I’m @Mik3Tab.
 - 👀 I’m interested in full stack web development.
 - 🌱 I’m doing a bootcamp in The Bridge. Im currently learning HTML, CSS, Javascript, Angular & React.js!
 
