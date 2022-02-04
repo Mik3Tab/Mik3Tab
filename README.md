@@ -4,5 +4,5 @@
 
 
 
-![Mik3Tab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mik3Tab&show_icons=true&theme=radical&layout=compact) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mik3Tab)
+![Mik3Tab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mik3Tab&show_icons=true&theme=radical&layout=compact) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mik3Tab&theme=radical)
 
