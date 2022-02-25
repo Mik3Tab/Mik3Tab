@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stack web development.
 - 🌱 I’m doing a bootcamp in The Bridge,Javascript (Node.JS, Express, MongoDB & React.JS). Currently doing MERN stack projects.
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Mik3Tab" alt="Mik3Tab" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mik3Tab" alt="Mik3Tab" /> </p>
 
 
 <div align="center">
