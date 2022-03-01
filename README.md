@@ -1,6 +1,6 @@
-- 👋 Hi! I’m @Mik3Tab.
-- 👀 My interests are always involved with tech since i was a kid. As a result, I decided to make web development my area of expertise.
-- 🌱 I’m doing a bootcamp in The Bridge, working with technologies such as: HTML5, CSS3 and Javascript (Node.JS, Express, MongoDB & React.JS). Currently doing MERN stack projects.
+👋 Hi! I’m @Mik3Tab.
+🧙 My interests are always involved with tech since i was a kid. As a result, I decided to make web development my area of expertise.
+🌱 I’m doing a bootcamp in The Bridge, working with technologies such as: HTML5, CSS3 and Javascript (Node.JS, Express, MongoDB & React.JS). Currently doing MERN stack projects.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mik3Tab" alt="Mik3Tab" /> </p>
 
