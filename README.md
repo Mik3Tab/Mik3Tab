@@ -4,8 +4,9 @@
 
 🌱 I have a degree in CFGS Web Apps Development, also I've done a Full-stack Web Development Bootcamp in The Bridge. I've been working with technologies such as: HTML5, CSS3, PHP, Javascript & Typescript (MySQL, Sequelize, MongoDB, Express, ReactJS & NodeJS). Currently doing MERN & MEAN stack projects.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mik3Tab" alt="Mik3Tab" /> </p>
+💻 Currently, I'm working at <a href="https://loriot.io/index.html">Loriot</a> as Front End Developer
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mik3Tab" alt="Mik3Tab" /> </p>
 
 <div align="center">
   <a href="https://github.com/Mik3Tab">
