@@ -1,4 +1,4 @@
-👋 Hi! I’m @Mik3Tab.
+👋 Hi! I’m Miguel Talavera
 
 🧙 My interests have been always involved with tech since i was a kid. As a result, I decided to make web development my area of expertise.
 
