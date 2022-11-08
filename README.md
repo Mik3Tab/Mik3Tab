@@ -1,6 +1,6 @@
 👋 Hi! I’m Miguel Talavera
 
-🧙 My interests have been always involved with tech since i was a kid. As a result, I decided to make web development my area of expertise.
+🧙 My interests have been always involved with tech since i was a kid. As a result, I decided to make web development my professional career.
 
 🌱 I have a degree in CFGS Web Apps Development, also I've done a Full-stack Web Development Bootcamp in The Bridge. I've been working with technologies such as: HTML5, CSS3, Javascript & Typescript w/ React / Angular on the frontend side alongise MySQL w/ Sequelize / MongoDB / Express on the backend side. All of those projects merged in MERN & MEAN stack projects.
 
