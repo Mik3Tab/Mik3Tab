@@ -2,7 +2,7 @@
 
 🧙 My interests have been always involved with tech since i was a kid. As a result, I decided to make web development my area of expertise.
 
-🌱 I have a degree in CFGS Web Apps Development, also I've done a Full-stack Web Development Bootcamp in The Bridge. I've been working with technologies such as: HTML5, CSS3, PHP, Javascript & Typescript, MySQL w/ Sequelize / MongoDB / Express. Currently doing MERN & MEAN stack projects.
+🌱 I have a degree in CFGS Web Apps Development, also I've done a Full-stack Web Development Bootcamp in The Bridge. I've been working with technologies such as: HTML5, CSS3, Javascript & Typescript w/ React / Angular on the frontend side alongise MySQL w/ Sequelize / MongoDB / Express on the backend side. Currently doing MERN & MEAN stack projects.
 
 💻 Currently, I'm working at <a href="https://loriot.io/index.html">LORIOT</a> as Front End Developer.
 
