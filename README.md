@@ -1,4 +1,4 @@
-👋 Hi! I’m Miguel Talavera. I'm a Front End Developer.
+👋 Hi! I’m Miguel Talavera. I'm a software Developer.
 
 💻 Currently, I'm working at <a href="https://loriot.io/index.html">LORIOT</a> as Front End Developer.
 
