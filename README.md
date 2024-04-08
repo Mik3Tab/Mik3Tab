@@ -2,8 +2,6 @@
 
 💻 Currently, I'm working at <a href="https://loriot.io/index.html">LORIOT</a> as Front End Developer.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mik3Tab" alt="Mik3Tab" /> </p>
-
 <div align="center">
   <a href="https://github.com/Mik3Tab">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Mik3Tab&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
