@@ -1,9 +1,5 @@
 👋 Hi! I’m Miguel Talavera
 
-🧙 My interests have been always involved with tech since i was a kid. As a result, I decided to make web development my professional career.
-
-🌱 I have a degree in CFGS Web Apps Development, also I've done a Full-stack Web Development Bootcamp in <a href="https://www.thebridge.tech/">The Bridge - Digital Talent Accelerator</a>. I've been working with technologies such as: HTML5, CSS3, Javascript & Typescript w/ React / Angular on the frontend side alongise MySQL w/ Sequelize / MongoDB / Express on the backend side. All of those projects merged in MERN & MEAN stack projects.
-
 💻 Currently, I'm working at <a href="https://loriot.io/index.html">LORIOT</a> as Front End Developer.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mik3Tab" alt="Mik3Tab" /> </p>
