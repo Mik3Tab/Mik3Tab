@@ -5,6 +5,7 @@
 Currently, I'm working at [LORIOT](https://loriot.io/) as a **Front End Developer**.  
 Right now, I'm expanding my skill set by learning **Go** to transition into a Full Stack role.
 I have led technical teams, created and validated TSDs (frontend side), and mentored colleagues both to guide them as they joined the company and to synchronize our efforts during sprints.
+
 ---
 
 ### 🛠️ Tech Stack & Tools
