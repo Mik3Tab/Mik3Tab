@@ -1,10 +1,10 @@
-# 👋 Hi! I'm Miguel Talavera
+# 👋 Hi! I'm Miguel Talavera. 
 
-👨‍💻 **Software Developer** | 🌱 **On my journey to becoming a Full Stack Developer**
+👨‍💻 **Software Developer** | 🌱 **Mid-Level Full Stack Developer**
 
-💻 Currently, I'm working at [LORIOT](https://loriot.io/) as a **Front End Developer**.  
-🚀 Right now, I'm expanding my skill set by learning **Go** to transition into a Full Stack role.
-
+Currently, I'm working at [LORIOT](https://loriot.io/) as a **Front End Developer**.  
+Right now, I'm expanding my skill set by learning **Go** to transition into a Full Stack role.
+I have led technical teams, created and validated TSDs (frontend side), and mentored colleagues both to guide them as they joined the company and to synchronize our efforts during sprints.
 ---
 
 ### 🛠️ Tech Stack & Tools
