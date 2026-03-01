@@ -21,7 +21,7 @@ I have led technical teams, created and validated TSDs (frontend side), and ment
 ![CSS3](https://img.shields.io/badge/SCSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🎨 Design Systems Experience
-I am intyerested about building and consuming **Design Systems**. By creating scalable, reusable, and modular component libraries, I ensure UI/UX consistency across applications, speed up development cycles, and bridge the gap between design and engineering.
+I am interested in building and consuming **Design Systems** in my work and personal projects. By creating scalable, reusable, and modular component libraries, I ensure UI/UX consistency across applications, speed up development cycles, and bridge the gap between design and engineering.
 
 **Backend & Databases:**
 
