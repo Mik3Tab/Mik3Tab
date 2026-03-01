@@ -18,6 +18,8 @@ I have led technical teams, created and validated TSDs (frontend side), and ment
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![CSS3](https://img.shields.io/badge/SCSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### 🎨 Design Systems Experience
+I am intyerested about building and consuming **Design Systems**. By creating scalable, reusable, and modular component libraries, I ensure UI/UX consistency across applications, speed up development cycles, and bridge the gap between design and engineering.
 
 **Backend & Databases:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
